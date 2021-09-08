@@ -1,3 +1,4 @@
 # yamdb_final
 yamdb_final
-![](https://github.com/StromeXb/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+
+[](https://github.com/StromeXb/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
